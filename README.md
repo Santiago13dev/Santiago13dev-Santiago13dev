@@ -59,16 +59,22 @@
 ```
 ## 📚 En Aprendizaje
 
-<div align="center">
-
 ### 📘 Desarrollo Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Progreso](https://progress-bar.dev/60/?title=Flutter)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Progreso](https://progress-bar.dev/45/?title=React+Native)
+<div>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://progress-bar.dev/60/?width=200&title=Flutter" alt="Progreso Flutter">
+  
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black" alt="React Native">
+  <img src="https://progress-bar.dev/45/?width=200&title=React+Native" alt="Progreso React Native">
+</div>
 
 ### ☁️ Cloud Services
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Progreso](https://progress-bar.dev/55/?title=Azure)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Progreso](https://progress-bar.dev/75/?title=AWS)
-
+<div>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://progress-bar.dev/55/?width=200&title=Azure" alt="Progreso Azure">
+  
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://progress-bar.dev/75/?width=200&title=AWS" alt="Progreso AWS">
 </div>
 
 <sub>🔹 Última actualización: Mayo 2024 | Los porcentajes reflejan mi percepción subjetiva de dominio</sub>
