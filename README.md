@@ -5,7 +5,7 @@
 ## 🔹 Sobre mí  
 - 💻 Actualmente aprendiendo: **React, Node.js, Python**.  
 - 📚 Me encanta: **Enseñar, colaborar en proyectos open-source**.  
-- 📫 Contáctame: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com).  
+- 📫 Contáctame: [kevin.rodriguezgomez1308@gmail.com](mailto:tuemail@ejemplo.com).  
 
 ## 🔹 Tecnologías  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
