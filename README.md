@@ -1,6 +1,6 @@
 # ¡Hola ! 👋 Soy Santiago Rodriguez | Desarrollador de Software
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/santiago-rodriguez-gomez-97716522b )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/santiago-rodriguez-gomez-97716522b)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-FF5722?logo=google-chrome&logoColor=white)](https://santiagodev.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Santiago13dev)
 
