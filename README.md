@@ -57,6 +57,15 @@
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
 ```
+## 📚 En Aprendizaje
+
+| Área          | Tecnologías                  | Progreso |
+|---------------|------------------------------|----------|
+| 📱 Mobile     | Flutter, React Native        | ![60%](https://progress-bar.dev/60) |
+| ☁️ Cloud      | Azure, AWS Certified         | ![45%](https://progress-bar.dev/45) |
+| 🛠️ DevOps    | Docker, Kubernetes           | ![30%](https://progress-bar.dev/30) |
+
+<sub>🔹 Actualizado: Mayo 2024</sub>
 ## 🔹 Estadísticas de GitHub  
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=Santiago13dev&show_icons=true&theme=radical)  
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago13dev&layout=compact&theme=radical)  
