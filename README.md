@@ -92,6 +92,8 @@
 
 <sub>🔹 Última actualización: Mayo 2024 | Los porcentajes reflejan mi percepción subjetiva de dominio</sub>
 
+
+
 <div align="center">
   <p style="
     font-size: 24px;
