@@ -59,14 +59,17 @@
 + 📈 Optimicé consultas SQL mejorando el rendimiento en 35% para reportes críticos
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
-```text
-   _____ _                 _     ___  _      _   _             
-  | ____| | ___  _   _  __| |   / _ \| |__  (_) | |_ ___  _ __ 
-  |  _| | |/ _ \| | | |/ _` |  | | | | '_ \ | | __/ _ \| '__|
-  | |___| | (_) | |_| | (_| |  | |_| | |_) || | || (_) | |   
-  |_____|_|\___/ \__,_|\__,_|   \___/|_.__(_)_|\__\___/|_|   
 ```
 <div align="center">
-  <em style="color: #5E548E;">"El software es el arte de transformar problemas en soluciones elegantes."</em><br>
-  <strong>— Santiago Dev</strong>
+  <p style="
+    font-size: 24px;
+    background: linear-gradient(90deg, #FF9A8B 0%, #FF6B95 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-family: 'Arial';
+  ">
+    🎨 "El software es el arte de transformar problemas en soluciones elegantes."
+  </p>
+  <p style="color: #5E548E; font-style: italic;">— Santiago Dev</p>
 </div>
