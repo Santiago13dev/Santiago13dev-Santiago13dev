@@ -57,6 +57,9 @@
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
 ```
+## 🔹 Estadísticas de GitHub  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Santiago13dev&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago13dev&layout=compact&theme=radical)  
 ## 🚀 Skills en Desarrollo
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
@@ -86,8 +89,6 @@
 </div>
 
 </div>
-
-<sub>🔝 Stack tecnológico actualizado Q3 2024</sub>
 
 <sub>🔹 Última actualización: Mayo 2024 | Los porcentajes reflejan mi percepción subjetiva de dominio</sub>
 
