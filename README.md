@@ -1,4 +1,4 @@
-# ¡Hola Mundo! 👋 Soy Santiago Martínez | Ingeniero de Software
+# ¡Hola ! 👋 Soy Santiago Rodriguez | Desarrollador de Software
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-FF5722?logo=google-chrome&logoColor=white)](https://santiagodev.com)
@@ -18,16 +18,13 @@
 **Frontend & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 
 **Backend & Cloud**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 **Bases de Datos & BI**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
 
 ---
@@ -54,7 +51,6 @@
 - Persistencia local con IndexedDB  
 - Sistema de prioridades y etiquetas  
 - Modo oscuro/claro  
-
 ---
 
 ## 🏆 Logros Profesionales
@@ -63,8 +59,14 @@
 + 📈 Optimicé consultas SQL mejorando el rendimiento en 35% para reportes críticos
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
+```text
+   _____ _                 _     ___  _      _   _             
+  | ____| | ___  _   _  __| |   / _ \| |__  (_) | |_ ___  _ __ 
+  |  _| | |/ _ \| | | |/ _` |  | | | | '_ \ | | __/ _ \| '__|
+  | |___| | (_) | |_| | (_| |  | |_| | |_) || | || (_) | |   
+  |_____|_|\___/ \__,_|\__,_|   \___/|_.__(_)_|\__\___/|_|   
+```
 <div align="center">
-  <h2 style="color: #FF6B6B;">🌟 <em>"El software es el arte de transformar problemas en soluciones elegantes."</em> 🌟</h2>
-  <p style="color: #4ECDC4; font-size: 18px;">— <strong>Santiago Dev</strong></p>
+  <em style="color: #5E548E;">"El software es el arte de transformar problemas en soluciones elegantes."</em><br>
+  <strong>— Santiago Dev</strong>
 </div>
-
