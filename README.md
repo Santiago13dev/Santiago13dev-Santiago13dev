@@ -25,9 +25,6 @@
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
 
 ---
-## 🔹 Estadísticas de GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Santiago13dev&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago13dev&layout=compact&theme=radical)  
 
 ## 🚀 Proyectos Destacados
 
@@ -60,6 +57,10 @@
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
 ```
+## 🔹 Estadísticas de GitHub  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Santiago13dev&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago13dev&layout=compact&theme=radical)  
+
 <div align="center">
   <p style="
     font-size: 24px;
