@@ -28,26 +28,36 @@
 
 ## 🚀 Proyectos Destacados
 
-### 1. Sistema de Monitoreo Automatizado (AWS)
-**Tecnologías**: `Python` `AWS Lambda` `CloudWatch` `Boto3`  
+### 1. Gestor de Tareas Personalizado
+**Tecnologías**: `JavaScript` `React` `LocalStorage`  
 ✅ **Logros**:  
-- Automatización completa del monitoreo de infraestructura  
-- Reducción del 50% en tiempo de respuesta a incidentes  
-- Alertas personalizadas por correo/SMS  
+- Aplicación funcional para organización personal  
+- Implementación de CRUD completo  
+- Diseño responsive con CSS puro  
+- [Demo en GitHub Pages](https://santiago13dev.github.io/task-manager)  
 
-### 2. Dashboard Analítico Empresarial
-**Tecnologías**: `PowerBI` `SQL` `R` `Python`  
+### 2. Clon de Página Web (Spotify/Netflix)  
+**Tecnologías**: `HTML5` `CSS3` `JavaScript ES6`  
 ✨ **Features**:  
-- 15+ visualizaciones interactivas  
-- Conexión a múltiples fuentes de datos (APIs, DBs)  
-- Actualización automática diaria  
+- Réplica interactiva de interfaz popular  
+- Consumo de API pública para mostrar datos reales  
+- Efectos visuales con CSS Animations  
+- [Código abierto](https://github.com/Santiago13dev/web-clone)  
 
-### 3. TaskMaster Pro - Gestor de Tareas
-**Tecnologías**: `React` `TypeScript` `CSS Modules`  
-🌟 **Features**:  
-- Persistencia local con IndexedDB  
-- Sistema de prioridades y etiquetas  
-- Modo oscuro/claro  
+### 3. API REST Básica  
+**Tecnologías**: `Node.js` `Express` `MongoDB`  
+🌟 **Características**:  
+- Endpoints para usuarios y productos  
+- Autenticación JWT básica  
+- Documentación con Swagger  
+- [Postman Collection](https://example.link)  
+
+### 4. Scripts de Automatización  
+**Tecnologías**: `Python` `Bash`  
+🔧 **Funcionalidades**:  
+- Organizador automático de descargas  
+- Convertidor de CSV a JSON  
+- Notificador de precios web (web scraping básico)  
 ---
 
 ## 🏆 Logros Profesionales
