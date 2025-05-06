@@ -1,6 +1,6 @@
 # ¡Hola ! 👋 Soy Santiago Rodriguez | Desarrollador de Software
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](linkedin.com/in/santiago-rodriguez-gomez-97716522b )
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-FF5722?logo=google-chrome&logoColor=white)](https://santiagodev.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Santiago13dev)
 
@@ -13,11 +13,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 
 **Frontend & Frameworks**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
 
 **Backend & Cloud**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
@@ -61,6 +59,15 @@
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
 ```
 <div align="center">
-  <h2 style="color: #FF6B6B;">🌟 <em>"El software es el arte de transformar problemas en soluciones elegantes."</em> 🌟</h2>
-  <p style="color: #4ECDC4; font-size: 18px;">— <strong>Santiago R</strong></p>
+  <p style="
+    font-size: 24px;
+    background: linear-gradient(90deg, #FF9A8B 0%, #FF6B95 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-family: 'Arial';
+  ">
+    🎨 "El software es el arte de transformar problemas en soluciones elegantes." 🎨
+  </p>
+  <p style="color: #5E548E; font-style: italic;">— Santiago R</p>
 </div>
