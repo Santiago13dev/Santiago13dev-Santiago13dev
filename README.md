@@ -60,16 +60,9 @@
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
 ```
-<div align="center">
-  <p style="
-    font-size: 24px;
-    background: linear-gradient(90deg, #FF9A8B 0%, #FF6B95 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-    font-family: 'Arial';
-  ">
-    🎨 "El software es el arte de transformar problemas en soluciones elegantes."
-  </p>
-  <p style="color: #5E548E; font-style: italic;">— Santiago Dev</p>
-</div>
+> <div align="center">
+>   <span style="font-size: 22px; color: #6A1B9A; font-family: 'Courier New';">
+>     ✨ <strong>"El software es el arte de transformar<br>problemas en soluciones elegantes."</strong> ✨
+>   </span><br>
+>   <span style="color: #FF8E53;">— Santiago R</span>
+> </div>
