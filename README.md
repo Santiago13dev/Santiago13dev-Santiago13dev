@@ -63,3 +63,6 @@
 + 📈 Optimicé consultas SQL mejorando el rendimiento en 35% para reportes críticos
 + ☁️ Certificación AWS Cloud Practitioner (2023)
 + 🏆 Reconocimiento "Innovación Tecnológica" en mi empresa actual
+
+</div>
+"El software es el arte de transformar problemas en soluciones elegantes." — Santiago Dev
