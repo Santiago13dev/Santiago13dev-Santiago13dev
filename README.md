@@ -59,16 +59,19 @@
 ```
 ## 📚 En Aprendizaje
 
-| Área          | Tecnologías                  | Progreso |
-|---------------|------------------------------|----------|
-| 📱 Mobile     | Flutter, React Native        | ![60%](https://progress-bar.dev/60) |
-| ☁️ Cloud      | Azure, AWS Certified         | ![45%](https://progress-bar.dev/45) |
-| 🛠️ DevOps    | Docker, Kubernetes           | ![30%](https://progress-bar.dev/30) |
+<div align="center">
 
-<sub>🔹 Actualizado: Mayo 2024</sub>
-## 🔹 Estadísticas de GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Santiago13dev&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago13dev&layout=compact&theme=radical)  
+### 📘 Desarrollo Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Progreso](https://progress-bar.dev/60/?title=Flutter)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Progreso](https://progress-bar.dev/45/?title=React+Native)
+
+### ☁️ Cloud Services
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Progreso](https://progress-bar.dev/55/?title=Azure)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Progreso](https://progress-bar.dev/75/?title=AWS)
+
+</div>
+
+<sub>🔹 Última actualización: Mayo 2024 | Los porcentajes reflejan mi percepción subjetiva de dominio</sub>
 
 <div align="center">
   <p style="
