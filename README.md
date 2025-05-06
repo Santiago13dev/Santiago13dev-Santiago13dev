@@ -61,45 +61,33 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
 
-### 🌐 Desarrollo Web (Full Stack)
-<div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
+### 🌐 Desarrollo Web
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/85/?width=180&color=3178C6&title=Dominio">
-  
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/80/?width=180&color=000000">
-  
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/75/?width=180&color=339933">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
 </div>
 
 ### ☁️ Cloud & DevOps
-<div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/70/?width=180&color=FF9900&title=Certificado">
-  
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/65/?width=180&color=2496ED">
-  
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/60/?width=180&color=326CE5">
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge">
 </div>
 
-### 🧪 Testing & QA
-<div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
+### 🧪 Testing
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/75/?width=180&color=C21325&title=Unit">
-  
   <img src="https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/70/?width=180&color=17202C&title=E2E">
-  
   <img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge">
-  <img src="https://progress-bar.dev/65/?width=180&color=2EAD33&title=Integration">
+  <img src="https://img.shields.io/badge/-Testing_Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge">
 </div>
 
 </div>
 
-<sub>🔝 Stack tecnológico actualizado según tendencias 2024 (GitHub Octoverse, StackOverflow Survey)</sub>
+<sub>🔝 Stack tecnológico actualizado Q3 2024</sub>
 
 <sub>🔹 Última actualización: Mayo 2024 | Los porcentajes reflejan mi percepción subjetiva de dominio</sub>
 
